@@ -18,12 +18,12 @@ JavaScript Basics: The DOM, Events, Conditionals, Loops, Fetch
 https://www.youtube.com/watch?v=B3uWrcK9Kv4
 
 #### Session 3:
-Building Components: modal, thumbnail gallery, tabbed content
+Building Components: modal, thumbnail gallery
 
 https://www.youtube.com/watch?v=K-o2Ag3z0Xk
 
 #### Session 4:
-Building Components: slider/carousel, calculator
+Building Components: volume calculator, tabbed content
 
 https://www.youtube.com/watch?v=Ppgy6btt8h8
 
