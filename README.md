@@ -6,6 +6,8 @@ Notes and code for my training series on JavaScript fundamentals. This was a fou
 #### Session 1:
 A brief history of JavaScript and where it fits into the web
 
+(Slides: [brief-history-of-javascript-slides.pdf](https://github.com/SteGreig/js-training/blob/main/brief-history-of-javascript-slides.pdf))
+
 JavaScript Basics: Variables, Data Types, Functions
 
 https://www.youtube.com/watch?v=FG9Dcvv0HLQ
